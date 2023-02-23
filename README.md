@@ -3,6 +3,6 @@
 ### Header 3
 #### Header 4
 _Italic_
-**Bold
+**Bold**
 
 This is my first repository. 
